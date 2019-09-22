@@ -1,0 +1,24 @@
+.main{
+    position: relative;
+    width: 80%;
+    height: 80vh;
+    background-color: lightgreen;
+}
+.ball{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    background-color: yellow;
+    border-radius: 50%;
+    top: 10px;
+    left: 10px;
+}
+.base{
+    position:absolute;
+    width: 100px;
+    height: 10px;
+    background-color: red;
+    border-radius: 10px;
+    top: 400px;
+    left: 20px;
+}
